@@ -1,0 +1,14 @@
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\bin\Debug\netcoreapp2.1\payback4marvin.deps.json
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\bin\Debug\netcoreapp2.1\payback4marvin.runtimeconfig.json
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\bin\Debug\netcoreapp2.1\payback4marvin.runtimeconfig.dev.json
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\bin\Debug\netcoreapp2.1\payback4marvin.dll
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\bin\Debug\netcoreapp2.1\payback4marvin.pdb
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.csprojAssemblyReference.cache
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.csproj.CoreCompileInputs.cache
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.RazorAssemblyInfo.cache
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.RazorAssemblyInfo.cs
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.AssemblyInfoInputs.cache
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.AssemblyInfo.cs
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.RazorTargetAssemblyInfo.cache
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.dll
+C:\Users\warzynski\Documents\Visual Studio 2017\Projects\payback4marvin\payback4marvin\obj\Debug\netcoreapp2.1\payback4marvin.pdb
